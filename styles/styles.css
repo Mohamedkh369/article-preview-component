@@ -45,7 +45,7 @@ body {
 
 .article-img {
   width: 40%;
-  border-radius: 6px;
+  border-radius: 6px 0 0 6px;
 }
 
 .article-details {
